@@ -20,7 +20,8 @@ Use this app to search and save any books you would like! All you have to do is 
 Clone the repository and run ```npm i``` to install dependencies.
 
 ## Usage
-To run locally, run ```npm start``` from the command line. Or visit the deployed site [here!]()
+To run locally, run ```npm start``` from the command line. Or visit the deployed site [here!](https://nameless-temple-73731.herokuapp.com/)
+![App screenshot](/assets/app-screenshot.JPG)
 
 ## Made with
 HTML, CSS, JavaScript
